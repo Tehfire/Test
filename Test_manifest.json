@@ -1,0 +1,92 @@
+{
+  "formatVersion": 1,
+  "minLauncherVersion": null,
+  "generatedAt": "2026-11-18T19:18:08.9989684+00:00",
+  "server": {
+    "id": "test",
+    "name": "Test",
+    "game": "valheim"
+  },
+  "game": null,
+  "loader": {
+    "id": "denikson-BepInExPack_Valheim",
+    "name": "BepInExPack Valheim",
+    "version": "5.4.2360",
+    "source": "thunderstore",
+    "url": "https://thunderstore.io/package/download/denikson/BepInExPack_Valheim/5.4.2360/",
+    "sha256": "6bca77b1016acfe0ffaebb6534c84b12ae8d12e5a96abbf59ec6e4526204fc6f",
+    "sizeBytes": 726409,
+    "updated": "2026-10-28",
+    "added": null,
+    "side": "both",
+    "required": true
+  },
+  "mods": [
+    {
+      "id": "TastyChickenLegs-AutomaticFuel",
+      "name": "AutomaticFuel",
+      "version": "1.6.3",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/TastyChickenLegs/AutomaticFuel/1.6.3/",
+      "sha256": "3461db0ce5bf8527c1eca2b108ac8b36f339c6dd44cfa8a0d5cf59245187eafc",
+      "sizeBytes": 406302,
+      "updated": "2026-11-18",
+      "added": "2026-11-18",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "Brom8-Beyond",
+      "name": "Beyond",
+      "version": "0.110.6",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Brom8/Beyond/0.110.6/",
+      "sha256": "7eff856e826704c8e772f506d74f457d91f2c7cf19be582f308f3876cd44a414",
+      "sizeBytes": 142996460,
+      "updated": "2026-11-18",
+      "added": "2026-11-18",
+      "side": "both",
+      "required": true
+    },
+    {
+      "id": "BenjSammy-Biome_Borders",
+      "name": "Biome Borders",
+      "version": "1.0.1",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/BenjSammy/Biome_Borders/1.0.1/",
+      "sha256": "cc11ea5414e6729e4e1fc17d09919a13134c8544ad21841e11afbc8d81e17da6",
+      "sizeBytes": 39541,
+      "updated": "2026-11-18",
+      "added": "2026-11-18",
+      "side": "client",
+      "required": false
+    },
+    {
+      "id": "Yuri18189-BomDeMurro",
+      "name": "BomDeMurro",
+      "version": "1.0.7",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Yuri18189/BomDeMurro/1.0.7/",
+      "sha256": "4fc280826397b7f716c4bca27d31fd52da59c89260a09236a7af2a40f617ea52",
+      "sizeBytes": 171265,
+      "updated": "2026-11-18",
+      "added": "2026-11-18",
+      "side": "client",
+      "required": false
+    },
+    {
+      "id": "Tallko-SmartChest",
+      "name": "SmartChest",
+      "version": "1.0.0",
+      "source": "thunderstore",
+      "url": "https://thunderstore.io/package/download/Tallko/SmartChest/1.0.0/",
+      "sha256": "042dbbd33fc1507c819275a7c01046c2144326cbd45cc222435f7875b44f331e",
+      "sizeBytes": 55268,
+      "updated": "2026-11-18",
+      "added": "2026-11-18",
+      "side": "both",
+      "required": true
+    }
+  ],
+  "signature": null
+}
